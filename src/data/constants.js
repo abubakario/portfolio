@@ -122,19 +122,19 @@ export const experiences = [
       ],
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
-  // {
-  //   id: 1,
-  //   img: "https://media.licdn.com/dms/image/D4D0BAQGU_ck6i_zaQA/company-logo_200_200/0/1704293652425/mlsa_uok_logo?e=2147483647&v=beta&t=sqKD80JvLL_adpUNR51ilM64tbN9jLdPmPAP1MYwqIM",
-  //   role: "Microsoft Learn Student Ambassadors - Core Member",
-  //   company: "MLSA",
-  //   date: "Feb 2024 - Present",
-  //   desc: "As a core member of MLSA, I collaborate with a global community of student leaders passionate about technology. I organize and lead technical workshops, hackathons, and coding sessions, fostering learning and growth among peers. My role involves mentorship, sharing knowledge on Microsoft technologies, and driving initiatives that bridge the gap between students and industry professionals..",
-  //   skills: [
-  //     "Management",
-  //     "Teamwork",
-  //     "Communication",
-  //     "Problem Solving",
-  //   ],
+  {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQGYzFX7PxwyNw/company-logo_200_200/company-logo_200_200/0/1709534329346/bahria_enterprise_systems_and_technologies_logo?e=1773273600&v=beta&t=NW2uoyb4N0lOHF9OJSZtdJ48RrIdgyioLfAyQ-qSo38",
+    role: "Senior Laravel Developer",
+    company: "Bahria Enterprise Systems and Technologies ( BEST )",
+    date: "June 2025 - Present",
+    desc: "Full Stack Developer with a specialized focus on PHP (Core & Laravel). I have a proven track record of architecting and deploying high-integrity management systems and web applications that prioritize performance and structured data. From building custom business logic in raw PHP to implementing modern, scalable MVC architectures in Laravel, I bridge the gap between complex backend requirements and efficient user interfaces. I specialize in system automation, database optimization, and engineering production-ready solutions for real-world workplace environments.",
+    skills: [
+      "PHP (Laravel & Core)",
+      "API Development (REST)",
+      "Database Design (SQL & NoSQL)",
+      "System Architecture"
+    ],
   //   doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   // },
 
