@@ -10,7 +10,7 @@ export const Bio = {
   "I Am A Software Engineer with a strong foundation in full-stack development, specializing in Laravel, PHP, and React. As a recent Software Engineering graduate, I have built practical solutions including a Face Recognition Attendance App and various web applications, and websites. I am passionate about backend logic and database management, eager to leverage my skills in a professional environment to build scalable and efficient software.",
   github: "https://github.com/AbubakarAslam69",
   resume:
-    "/Abubakar_Aslam_CV.pdf",
+    "Abubakar_Aslam_CV.pdf",
   linkedin: "https://www.linkedin.com/in/muhammad-abubakar-aslam-16a161284/",
   insta: "https://www.instagram.com/abk_0002/",
   facebook: "https://www.facebook.com/abubakar.aslam.739925"
