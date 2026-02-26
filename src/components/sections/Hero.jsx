@@ -224,7 +224,7 @@ const Hero = () => {
                 </Span>
               </TextLoop>
               <SubTitle>{Bio.description}</SubTitle>
-              <ResumeButton href={Bio.resume} target="_blank">
+              <ResumeButton href={Bio.resume} target="_blank" download="Abubakar_Aslam_CV.pdf">
                 Check Resume
               </ResumeButton>
             </motion.div>
