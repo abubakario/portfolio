@@ -107,7 +107,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4D0BAQHqeGkVWjn64g/company-logo_200_200/company-logo_200_200/0/1679413110895/eplanet_pakistan_logo?e=1772668800&v=beta&t=JxKjQ6qJb3NTw8vAJppkhir7c2fhzpekvqR9ZAvK5RM",
+    img: "/eplanet.jpg",
     role: "Frontend Web Developer",
     company: "E-Planet Global Pakistan",
     date: "Aug 2024 - Jan 2025",
@@ -124,7 +124,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQGYzFX7PxwyNw/company-logo_200_200/company-logo_200_200/0/1709534329346/bahria_enterprise_systems_and_technologies_logo?e=1773273600&v=beta&t=NW2uoyb4N0lOHF9OJSZtdJ48RrIdgyioLfAyQ-qSo38",
+    img: "/best.jpg",
     role: "Senior Laravel Developer",
     company: "Bahria Enterprise Systems and Technologies ( BEST )",
     date: "June 2025 - Present",
@@ -146,7 +146,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C510BAQFLpWcUcSFfTg/company-logo_200_200/company-logo_200_200/0/1631336574509?e=1772668800&v=beta&t=ZUWuQbCUGQvu3_pEnLnCZ3yk9C8kB8qwKn2y1kMVSN8",
+    img: "/ku.jpg",
     school: "Umaer Basha Institute of Science And Technology, Karachi",
     date: " Dec 2020 - Jan 2021",
     desc: "Completed a Bachelor's degree in Software Engineering at Umaer Basha Institute of Information Technology (UBIT). I have mastered core computer science concepts including Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
@@ -154,7 +154,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D4D0BAQEXnEu7hmRxIg/company-logo_200_200/company-logo_200_200/0/1730284898056?e=1772668800&v=beta&t=mRJvVCxRg58g__w5JLTIM9uudldc-M8VOiuWnu4fBkA",
+    img: "/bck.jpg",
     school: "Bahria College Karsaz Karachi",
     date: "2018 - 2020",
     desc: "I completed my class 12 high school education at Government College For Men's, where I studied Pre-Engineering.",
